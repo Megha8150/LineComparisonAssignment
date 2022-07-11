@@ -38,9 +38,13 @@ namespace LineComparisonAssignment
             {
                 Console.WriteLine("Lines are equal");
             }
+            else if(length1>length2)
+            {
+                Console.WriteLine("lenght1 is greater than length2");
+            }
             else
             {
-                Console.WriteLine("Lines are not equal");
+                Console.WriteLine("length1 is less than length2");
             }
 
         }
