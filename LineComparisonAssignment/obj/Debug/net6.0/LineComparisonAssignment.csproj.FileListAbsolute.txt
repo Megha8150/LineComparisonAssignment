@@ -1,0 +1,15 @@
+C:\Users\megha\source\repos\LineComparisonAssignment\LineComparisonAssignment\bin\Debug\net6.0\LineComparisonAssignment.exe
+C:\Users\megha\source\repos\LineComparisonAssignment\LineComparisonAssignment\bin\Debug\net6.0\LineComparisonAssignment.deps.json
+C:\Users\megha\source\repos\LineComparisonAssignment\LineComparisonAssignment\bin\Debug\net6.0\LineComparisonAssignment.runtimeconfig.json
+C:\Users\megha\source\repos\LineComparisonAssignment\LineComparisonAssignment\bin\Debug\net6.0\LineComparisonAssignment.dll
+C:\Users\megha\source\repos\LineComparisonAssignment\LineComparisonAssignment\bin\Debug\net6.0\LineComparisonAssignment.pdb
+C:\Users\megha\source\repos\LineComparisonAssignment\LineComparisonAssignment\obj\Debug\net6.0\LineComparisonAssignment.csproj.AssemblyReference.cache
+C:\Users\megha\source\repos\LineComparisonAssignment\LineComparisonAssignment\obj\Debug\net6.0\LineComparisonAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\megha\source\repos\LineComparisonAssignment\LineComparisonAssignment\obj\Debug\net6.0\LineComparisonAssignment.AssemblyInfoInputs.cache
+C:\Users\megha\source\repos\LineComparisonAssignment\LineComparisonAssignment\obj\Debug\net6.0\LineComparisonAssignment.AssemblyInfo.cs
+C:\Users\megha\source\repos\LineComparisonAssignment\LineComparisonAssignment\obj\Debug\net6.0\LineComparisonAssignment.csproj.CoreCompileInputs.cache
+C:\Users\megha\source\repos\LineComparisonAssignment\LineComparisonAssignment\obj\Debug\net6.0\LineComparisonAssignment.dll
+C:\Users\megha\source\repos\LineComparisonAssignment\LineComparisonAssignment\obj\Debug\net6.0\refint\LineComparisonAssignment.dll
+C:\Users\megha\source\repos\LineComparisonAssignment\LineComparisonAssignment\obj\Debug\net6.0\LineComparisonAssignment.pdb
+C:\Users\megha\source\repos\LineComparisonAssignment\LineComparisonAssignment\obj\Debug\net6.0\LineComparisonAssignment.genruntimeconfig.cache
+C:\Users\megha\source\repos\LineComparisonAssignment\LineComparisonAssignment\obj\Debug\net6.0\ref\LineComparisonAssignment.dll
